@@ -30,10 +30,14 @@ And additional plugins coming soon! For documentation on building custom plugins
 - Raspberry Pi (4 | 3 | Zero 2 W)
     - Recommended to get 40 pin Pre Soldered Header
 - MicroSD Card (min 8 GB)
-- E-Ink Display: Inky Impression from Pimoroni, available in 3 sizes (affiliate links)
-    - **[7.3 Inch Display](https://collabs.shop/q2jmza)**
-    - **[5.7 Inch Display](https://collabs.shop/ns6m6m)**
-    - **[4 Inch Display](https://collabs.shop/cpwtbh)**
+- E-Ink Display: (affiliate links)
+    - Inky Impression by Pimoroni
+        - **[13.3 Inch Display](https://collabs.shop/q2jmza)**
+        - **[7.3 Inch Display](https://collabs.shop/q2jmza)**
+        - **[5.7 Inch Display](https://collabs.shop/ns6m6m)**
+        - **[4 Inch Display](https://collabs.shop/cpwtbh)**
+    - Inky wHAT by Pimoroni
+        - **[4.2 Inch Display](https://collabs.shop/jrzqmf)**
 - Picture Frame or 3D Stand
     - See [community.md](./docs/community.md) for 3D models, custom builds, and other submissions from the community
 
@@ -126,3 +130,4 @@ Check out these similar projects:
     - shoutout to @txoof for assisting with InkyPi's installation process
 - [InkyCal](https://github.com/aceinnolab/Inkycal) - has modular plugins for building custom dashboards
 - [PiInk](https://github.com/tlstommy/PiInk) - inspiration behind InkyPi's flask web ui
+- [rpi_weather_display](https://github.com/sjnims/rpi_weather_display) - alternative eink weather dashboard with advanced power effiency
